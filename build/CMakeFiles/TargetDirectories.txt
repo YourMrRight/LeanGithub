@@ -1,0 +1,3 @@
+/home/right/testace/build/CMakeFiles/test.dir
+/home/right/testace/build/CMakeFiles/edit_cache.dir
+/home/right/testace/build/CMakeFiles/rebuild_cache.dir
